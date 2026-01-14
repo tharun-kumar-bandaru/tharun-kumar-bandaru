@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Tharun Kumar
 
-<!--
-**tharun-kumar-bandaru/tharun-kumar-bandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student  
+📊 Aspiring Data Analyst → Business Analyst → AI Product Manager  
+🤖 Passionate about Data, AI-driven products & real-world problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a motivated and self-driven learner with a strong foundation in **data analytics, machine learning, and business intelligence**.  
+I enjoy working with data to uncover insights, build dashboards, and support **data-informed product decisions**.
+
+Currently, I am strengthening my skills through **hands-on projects**, self-learning, and practical assignments, with a long-term goal of becoming an **AI Product Manager**.
+
+---
+
+## 🧠 Skills & Expertise
+
+### 📊 Data Analytics
+- Advanced Excel (XLOOKUP, Power Query, Pivot Tables, Power Pivot)
+- SQL (Joins, Subqueries, CTEs, Window Functions)
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- KPI & Business Metrics Analysis
+
+### 📈 Data Visualization
+- Power BI (DAX, Data Modeling, Interactive Dashboards)
+- Matplotlib & Seaborn (Python)
+- Real-time & Static Dashboard Design
+
+### 🤖 Machine Learning & AI
+- Supervised Learning (Linear & Logistic Regression, Decision Trees)
+- Unsupervised Learning (K-Means Clustering)
+- Feature Engineering
+- Model Evaluation (Accuracy, Precision, Recall, F1-score)
+- AI/ML concepts for practical business use cases
+
+### 🛠 Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib)
+- SQL Databases
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Google Sheets
+
+---
+
+## 📂 Projects
+🔹 **SenaSuraksha** – AI-powered Surveillance & Threat Detection System  
+🔹 **Sales & Operations Dashboards** (Excel & Power BI)  
+🔹 **SQL Analytics Projects** (Healthcare, Sales, Business Data)
+
+> 👉 Check my repositories to see real-world datasets, dashboards, and analytics workflows.
+
+---
+
+## 🎯 Career Goals
+- Short-term: **Data Analyst / Business Analyst Internship**
+- Long-term: **AI Product Manager**
+- Focused on building **AI-powered, data-driven products**
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/tharunbandaru
+- 📧 Email: bandarutharunkumar0@gmail.com
+
+---
+
