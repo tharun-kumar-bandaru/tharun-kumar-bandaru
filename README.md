@@ -46,8 +46,7 @@ Currently, I am strengthening my skills through **hands-on projects**, self-lear
 ---
 
 ## 📂 Projects
-🔹 **SenaSuraksha** – AI-powered Surveillance & Threat Detection System  
-🔹 **Sales & Operations Dashboards** (Excel & Power BI)  
+🔹 **Hospital Emergency Room DashBoard (Excel)  
 🔹 **SQL Analytics Projects** (Healthcare, Sales, Business Data)
 
 > 👉 Check my repositories to see real-world datasets, dashboards, and analytics workflows.
