@@ -3,17 +3,13 @@
 🎓 B.Tech CSE (AI & ML) Student  
 📊 Aspiring Data Analyst → Business Analyst → AI Product Manager  
 🤖 Passionate about Data, AI-driven products & real-world problem solving  
-
 ---
-
 ## 🚀 About Me
 I am a motivated and self-driven learner with a strong foundation in **data analytics, machine learning, and business intelligence**.  
 I enjoy working with data to uncover insights, build dashboards, and support **data-informed product decisions**.
 
 Currently, I am strengthening my skills through **hands-on projects**, self-learning, and practical assignments, with a long-term goal of becoming an **AI Product Manager**.
-
 ---
-
 ## 🧠 Skills & Expertise
 
 ### 📊 Data Analytics
@@ -42,27 +38,24 @@ Currently, I am strengthening my skills through **hands-on projects**, self-lear
 - Jupyter Notebook
 - VS Code
 - Google Sheets
-
 ---
-
 ## 📂 Projects
-🔹 **Hospital Emergency Room DashBoard (Excel)  
-🔹 **SQL Analytics Projects** (Healthcare, Sales, Business Data)
+
+🔹 **Sales DashBoard** (using Excel)
+🔹 **Mobile Sales DashBoard** (using Power BI)
+🔹 **Hospital Emergency Room DashBoard** (using Excel & Power  BI)  
+🔹 **Book Store Management Systems** ((using PostgreSQl), Healthcare, Sales, Business Data)
+🔹 **Customer Behavior Analysis Dashboard** (using Python, SQL, and Power BI to analyze customer demographics)
 
 > 👉 Check my repositories to see real-world datasets, dashboards, and analytics workflows.
-
 ---
-
 ## 🎯 Career Goals
 - Short-term: **Data Analyst / Business Analyst Internship**
 - Long-term: **AI Product Manager**
 - Focused on building **AI-powered, data-driven products**
-
 ---
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/tharunbandaru
 - 📧 Email: bandarutharunkumar0@gmail.com
 
----
 
