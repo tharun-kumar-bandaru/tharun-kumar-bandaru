@@ -42,9 +42,13 @@ Currently, I am strengthening my skills through **hands-on projects**, self-lear
 ## 📂 Projects
 
 🔹 **Sales DashBoard** (using Excel)
+
 🔹 **Mobile Sales DashBoard** (using Power BI)
+
 🔹 **Hospital Emergency Room DashBoard** (using Excel & Power  BI)  
+
 🔹 **Book Store Management Systems** ((using PostgreSQl), Healthcare, Sales, Business Data)
+
 🔹 **Customer Behavior Analysis Dashboard** (using Python, SQL, and Power BI to analyze customer demographics)
 
 > 👉 Check my repositories to see real-world datasets, dashboards, and analytics workflows.
