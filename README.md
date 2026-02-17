@@ -35,6 +35,7 @@ Practical AI concepts for decision-making
 Python | SQL | Power BI | Excel | Git & GitHub | Jupyter | VS Code | Google Sheets
 
 🚀 What I’m Looking For
+
 Internship / Entry-level Data Analyst roles where I can work on real datasets, business problems, and analytics-driven decisions.
 
 ## 📂 Projects
