@@ -8,48 +8,42 @@
 I am a motivated and self-driven learner with a strong foundation in **data analytics, machine learning, and business intelligence**.  
 I enjoy working with data to uncover insights, build dashboards, and support **data-informed product decisions**.
 
-Currently, I am strengthening my skills through **hands-on projects**, self-learning, and practical assignments, with a long-term goal of becoming an **AI Product Manager**.
----
-## 🧠 Skills & Expertise
+💼 Core Strengths
+Data Analysis & Business Insights
+Dashboarding & Data Visualization
+SQL & Python for Analytics
+KPI & Metrics Analysis
+AI/ML for Business Use Cases
 
-### 📊 Data Analytics
-- Advanced Excel (XLOOKUP, Power Query, Pivot Tables, Power Pivot)
-- SQL (Joins, Subqueries, CTEs, Window Functions)
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- KPI & Business Metrics Analysis
+🧰 Technical Skills
+Excel: Power Query, Pivot Tables, XLOOKUP
+SQL: Joins, CTEs, Subqueries, Window Functions
+Power BI: DAX, Data Modeling, Interactive Dashboards
+Python: Pandas, NumPy, Matplotlib
 
-### 📈 Data Visualization
-- Power BI (DAX, Data Modeling, Interactive Dashboards)
-- Matplotlib & Seaborn (Python)
-- Real-time & Static Dashboard Design
+🤖 AI & Machine Learning Knowledge
+Supervised & Unsupervised Learning
+Feature Engineering
+Model Evaluation Metrics
+Practical AI concepts for decision-making
 
-### 🤖 Machine Learning & AI
-- Supervised Learning (Linear & Logistic Regression, Decision Trees)
-- Unsupervised Learning (K-Means Clustering)
-- Feature Engineering
-- Model Evaluation (Accuracy, Precision, Recall, F1-score)
-- AI/ML concepts for practical business use cases
+🛠 Tools
+Python | SQL | Power BI | Excel | Git & GitHub | Jupyter | VS Code | Google Sheets
 
-### 🛠 Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib)
-- SQL Databases
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Google Sheets
----
+🚀 What I’m Looking For
+Internship / Entry-level Data Analyst roles where I can work on real datasets, business problems, and analytics-driven decisions.
+
 ## 📂 Projects
 
-🔹 **Sales DashBoard** (using Excel)
+🔹 **Sales DashBoard** (Excel)
 
-🔹 **Mobile Sales DashBoard** (using Power BI)
+🔹 **Mobile Sales DashBoard** (Power BI)
 
-🔹 **Hospital Emergency Room DashBoard** (using Excel & Power  BI)  
+🔹 **Hospital Emergency Room DashBoard** (Excel & Power  BI)  
 
 🔹 **Book Store Management Systems** ((using PostgreSQl), Healthcare, Sales, Business Data)
 
-🔹 **Customer Behavior Analysis Dashboard** (using Python, SQL, and Power BI to analyze customer demographics)
+🔹 **Customer Behavior Analysis Dashboard** (Python, SQL, and Power BI to analyze customer demographics)
 
 > 👉 Check my repositories to see real-world datasets, dashboards, and analytics workflows.
 ---
