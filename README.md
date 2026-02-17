@@ -9,6 +9,7 @@ I am a motivated and self-driven learner with a strong foundation in **data anal
 I enjoy working with data to uncover insights, build dashboards, and support **data-informed product decisions**.
 
 💼 Core Strengths
+
 Data Analysis & Business Insights
 Dashboarding & Data Visualization
 SQL & Python for Analytics
@@ -16,18 +17,21 @@ KPI & Metrics Analysis
 AI/ML for Business Use Cases
 
 🧰 Technical Skills
+
 Excel: Power Query, Pivot Tables, XLOOKUP
 SQL: Joins, CTEs, Subqueries, Window Functions
 Power BI: DAX, Data Modeling, Interactive Dashboards
 Python: Pandas, NumPy, Matplotlib
 
 🤖 AI & Machine Learning Knowledge
+
 Supervised & Unsupervised Learning
 Feature Engineering
 Model Evaluation Metrics
 Practical AI concepts for decision-making
 
 🛠 Tools
+
 Python | SQL | Power BI | Excel | Git & GitHub | Jupyter | VS Code | Google Sheets
 
 🚀 What I’m Looking For
