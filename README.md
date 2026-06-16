@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Tharun Kumar
 
 🎓 B.Tech CSE (AI & ML) Student  
-📊 Aspiring Data Analyst → Business Analyst → AI Product Manager  
+📊 Aspiring Data Analyst → Business Analyst  
 🤖 Passionate about Data, AI-driven products & real-world problem solving  
 ---
-## 🚀 About Me
+## About Me
 I am a motivated and self-driven learner with a strong foundation in **data analytics, machine learning, and business intelligence**.  
 I enjoy working with data to uncover insights, build dashboards, and support **data-informed product decisions**.
 
@@ -34,7 +34,7 @@ Practical AI concepts for decision-making
 
 Python | SQL | Power BI | Excel | Git & GitHub | Jupyter | VS Code | Google Sheets
 
-🚀 What I’m Looking For
+  What I’m Looking For
 
 Internship / Entry-level Data Analyst roles where I can work on real datasets, business problems, and analytics-driven decisions.
 
@@ -43,6 +43,8 @@ Internship / Entry-level Data Analyst roles where I can work on real datasets, b
 🔹 **Sales DashBoard** (Excel)
 
 🔹 **Mobile Sales DashBoard** (Power BI)
+
+🔹 **E-Commeerce Sales Dashbosrd** (Power BI)
 
 🔹 **Hospital Emergency Room DashBoard** (Excel & Power  BI)  
 
